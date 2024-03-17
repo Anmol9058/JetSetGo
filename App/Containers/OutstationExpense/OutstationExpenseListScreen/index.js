@@ -1,0 +1,2 @@
+import OutstationExpenseListScreen from "./OutstationExpenseListScreen";
+export default OutstationExpenseListScreen

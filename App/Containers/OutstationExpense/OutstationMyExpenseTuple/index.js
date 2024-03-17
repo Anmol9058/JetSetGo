@@ -1,0 +1,2 @@
+import OutstationMyExpenseTupleScreen from "./OutstationMyExpenseTupleScreen";
+export default OutstationMyExpenseTupleScreen

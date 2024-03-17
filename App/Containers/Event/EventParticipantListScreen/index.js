@@ -1,0 +1,2 @@
+import EventParticipantListScreen from './EventParticipantListScreen'
+export default EventParticipantListScreen;

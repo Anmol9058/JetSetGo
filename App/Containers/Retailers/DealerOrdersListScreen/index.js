@@ -1,0 +1,2 @@
+import DealerOrdersListScreen from './DealerOrdersListScreen'
+export default DealerOrdersListScreen

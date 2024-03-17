@@ -1,0 +1,2 @@
+import OutstationTeamExpenseTuple from "./OutstationTeamExpenseTuple";
+export default OutstationTeamExpenseTuple

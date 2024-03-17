@@ -1,0 +1,2 @@
+import LocalMyExpenseTupleScreen from "./LocalMyExpenseTupleScreen";
+export default LocalMyExpenseTupleScreen

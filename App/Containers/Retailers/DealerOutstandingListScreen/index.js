@@ -1,0 +1,2 @@
+import DealerOutstandingListScreen from './DealerOutstandingListScreen'
+export default DealerOutstandingListScreen
